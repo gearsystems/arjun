@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Arjun Bhargava
+tagline:             'Personalized diary'
+description:         
+url:                 
+baseurl:             http://gearsystems.github.io/arjun
+paginate:            5
+
+# About/contact
+author:
+  name:              Arjun Bhargava
+  url:               twitter.com/
+  email:             arjun.bhargava.0507@gmail.com
+
+# Custom vars
+version:             1.0.0

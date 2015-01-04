@@ -13,7 +13,6 @@ title:               Arjun Bhargava
 tagline:             'Personalized diary'
 description:         
 url:                 http://gearsystems.github.io/arjun
-baseurl:             http://gearsystems.github.io/arjun
 paginate:            5
 
 # About/contact
@@ -24,3 +23,5 @@ author:
 
 # Custom vars
 version:             1.0.0
+github:
+  repo:           https://github.com/gearsystems/arjun

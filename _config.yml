@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Arjun Bhargava
 tagline:             'Personalized diary'
 description:         
-url:                 
+url:                 http://gearsystems.github.io/arjun
 baseurl:             http://gearsystems.github.io/arjun
 paginate:            5
 
